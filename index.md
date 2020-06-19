@@ -7,3 +7,4 @@ Diest ist die Beschreibung für das zweite Feature.
 * is tall
 * is ill
 
+> This is my quote
